@@ -1,0 +1,8 @@
+{
+    "name": "ChooseTheWeather",
+    "author": "Revingly",
+    "license": "License",
+    "version": "1.0.0",
+    "dependencies": {},
+    "main": "package.js"
+}
