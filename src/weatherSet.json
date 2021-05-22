@@ -1,23 +1,23 @@
 {
     "sunny": {
-        "cloud": -0.4,
+        "cloud": -1.5,
         "wind_speed": 0,
-        "wind_direction": 3,
+        "wind_direction": 0,
         "wind_gustiness": 0.022,
         "rain": 0,
         "rain_intensity": 0,
-        "fog": 0.004,
-        "temp": 18,
+        "fog": 0.002,
+        "temp": 16,
         "pressure": 760
     },
     "cloudy": {
         "cloud": 0.9,
         "wind_speed": 1,
-        "wind_direction": 3,
-        "wind_gustiness": 0.5,
+        "wind_direction": 2,
+        "wind_gustiness": 0.055,
         "rain": 0,
         "rain_intensity": 0,
-        "fog": 0.02,
+        "fog": 0.01,
         "temp": 10,
         "pressure": 762
     },
@@ -25,9 +25,9 @@
         "cloud": 2,
         "wind_speed": 4,
         "wind_direction": 8,
-        "wind_gustiness": 1,
+        "wind_gustiness": 0.012,
         "rain": 4,
-        "rain_intensity": 1,
+        "rain_intensity": 1.000,
         "fog": 0.7,
         "temp": 5,
         "pressure": 764
